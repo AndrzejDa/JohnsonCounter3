@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/XilinxProjekty/JohnsonCounter3/JohnsonCounter3.srcs/sources_1/new/JohnsonCounter3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'JohnsonCounter3'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/XilinxProjekty/JohnsonCounter3/JohnsonCounter3.srcs/sim_1/new/JohnsonCounter3_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'JohnsonCounter3_tb'
